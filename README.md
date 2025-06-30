@@ -20,7 +20,7 @@ The goal is to build a machine learning model that can estimate the resale price
 ## Dataset
 Kaggle dataset: [Used Cars Price Prediction](https://www.kaggle.com/datasets/colearninglounge/used-cars-price-prediction/data)
 
-* **Features include:**
+* **Features used:**
 
   * Year of Manufacture
   * Kilometers_Driven
